@@ -14,7 +14,14 @@ A aplicação utiliza **RAG (Retrieval-Augmented Generation)** com **LangChain**
 - 💬 **Interface interativa Streamlit**, permitindo perguntar e visualizar fontes consultadas.  
 
 ---
+## 🏗️ PRINTS DAS TELAS
 
+**TELA DE LOGIN**
+<img width="1915" height="903" alt="Image" src="https://github.com/user-attachments/assets/3e95a55d-54a7-4154-b15f-fa1009684b93" />
+
+**TELA DE LER DOCS**
+<img width="1922" height="907" alt="Image" src="https://github.com/user-attachments/assets/11700936-86dd-451d-bd41-2bc32c4c99f3" />
+---
 ## 🏗️ Arquitetura e Fluxo de Execução
 
 Usuário → Interface Streamlit → LangChain RAG → OpenAI GPT → Resposta + Fontes
