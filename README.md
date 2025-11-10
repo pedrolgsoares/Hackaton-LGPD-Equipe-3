@@ -8,7 +8,7 @@ A aplicação utiliza **RAG (Retrieval-Augmented Generation)** com **LangChain**
 ## 🚀 Funcionalidades
 
 - 🔐 **Login seguro** com autenticação via variáveis de ambiente.  
-- 📂 **Carregamento automático de PDFs** da pasta `docs/`.  
+- 📂 **Carregamento automático de PDFs** da pasta `docs/` já com os anexos presentes sem necessidade de UPLOAD.  
 - 🧠 **Geração de respostas contextuais** com base no conteúdo dos documentos.  
 - 🗂️ **Busca semântica** de trechos relevantes usando embeddings e FAISS.  
 - 💬 **Interface interativa Streamlit**, permitindo perguntar e visualizar fontes consultadas.  
