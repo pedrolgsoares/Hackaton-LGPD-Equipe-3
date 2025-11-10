@@ -95,9 +95,9 @@ APP_PASS=1234
 Crie a pasta `docs/` na raiz do projeto e coloque seus PDFs nela:
 ```
 docs/
-├── contrato_trabalho.pdf
-├── lei_trabalhista.pdf
-└── jurisprudencia_recente.pdf
+├── Lei 13709-2019 LGPD.pdf
+├── PROTOCOLO DE RESPOSTA A INCIDENTES DE SEGURANÇA (PRI).pdf
+└── Política de Segurança da Informação e Proteção de Dados.pdf
 ```
 
 ### 6️⃣ Executar o aplicativo
