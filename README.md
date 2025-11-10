@@ -66,8 +66,8 @@ Usuário → Interface Streamlit → LangChain RAG → OpenAI GPT → Resposta +
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/chatpdf-juridico.git
-cd chatpdf-juridico
+git clone https://github.com/pedrolgsoares/Hackaton-LGPD-Equipe-3.git
+cd Hackaton-LGPD-Equipe-3
 ```
 
 ### 2️⃣ Criar e ativar ambiente virtual
